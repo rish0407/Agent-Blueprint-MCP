@@ -1,6 +1,6 @@
 #  Agent Blueprint MCP | Build AI Agents Instantly
 
-**Create structured, domain-specific AI assistants using a single prompt. Powered by OpenAI. Integrated with [Puch AI](https://puch.so) via MCP.**
+**Create structured, domain-specific AI assistants using a single prompt. Powered by OpenAI. Integrated with [Puch AI](https://puch.ai/) via MCP.**
 
 ---
 
@@ -16,7 +16,7 @@ This is done using your own [OpenAI API key](https://platform.openai.com/), and 
 
 ##  What is Puch AI? How Does It Help?
 
-[Puch AI](https://puch.so) is a WhatsApp-based assistant platform that lets you:
+[Puch AI](https://puch.ai/) is a WhatsApp-based assistant platform that lets you:
 
 - Build, test, and run AI agents conversationally.
 - Integrate tools you write locally using **MCP (Modular Custom Protocol)**.
