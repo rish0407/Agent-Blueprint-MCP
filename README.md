@@ -42,14 +42,11 @@ This repo uses FastMCP to host a custom tool, and exposes it securely to Puch AI
 git clone https://github.com/yourusername/agent-blueprint-mcp.git
 cd agent-blueprint-mcp
 ### 2. Install Dependencies
-```bash
 pip install -r requirements.txt
 ### 3. Create a .env File
-```env
 OPENAI_API_KEY=sk-...
 ### 4. Run the MCP Server Locally
 Start your MCP server with:
-``bash
 python main.py
 
 Puch AI needs your local server to be accessible over the internet.
@@ -58,5 +55,4 @@ Once you have your public tunnel URL, open your WhatsApp chat with Puch AI and s
 /mcp connect https://your-url-here 16e5a4be404d
 
 You can now trigger your tool with:
-```arduino
 /onboard_agent An AI assistant that helps lawyers write contracts. prof
