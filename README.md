@@ -31,7 +31,8 @@ This repo uses FastMCP to host a custom tool, and exposes it securely to Puch AI
 -  `onboard_agent`: Generate an AI assistant blueprint from a job description.
 -  `validate`: Required for Puch AI to verify your tool.
 -  Uses OpenAI securely via `.env`.
--  Exposed over HTTP (port 8087) with FastAPI via `FastMCP`.
+-  Powered by FastMCP and securely callable through Puch AI via HTTP tunnel.
+.
 
 ---
 
