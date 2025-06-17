@@ -4,7 +4,7 @@
 
 ---
 
-`Agent Blueprint MCP` is a lightweight backend service that helps you **generate complete AI assistant specifications**—including:
+`Agent Blueprint MCP` is a lightweight backend service that helps you **generate complete AI assistant specifications**, including:
 
 - A system prompt
 - Required tools
